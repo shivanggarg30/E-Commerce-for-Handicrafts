@@ -1,0 +1,4 @@
+com\example\Ecommerce\Controller\UserController.class
+com\example\Ecommerce\EcommerceApplication.class
+com\example\Ecommerce\Repo\UserRepo.class
+com\example\Ecommerce\Models\UserModel.class
